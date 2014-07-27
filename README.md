@@ -10,6 +10,13 @@ $ cd levdist
 $ npm install
 ```
 
+## Example
+
+```js
+var LevDist = require("levdist");
+console.log(LevDist("live", "life"));
+```
+
 ## How to contribute
 
 1. File an issue in the repository, using the bug tracker, describing the
