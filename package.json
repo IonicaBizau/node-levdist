@@ -2,12 +2,12 @@
   "name": "levdist",
   "version": "1.0.0",
   "description": "A minimal algorithm for computing Levenshtein distance in JavaScript.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
-    "test": "test"
+    "example": "example"
   },
   "scripts": {
-    "test": "node test/index"
+    "test": "node example/index"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "distance"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT",
+  "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-levdist/issues"
   },
