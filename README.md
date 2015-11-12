@@ -5,7 +5,7 @@ A minimal algorithm for computing Levenshtein distance in JavaScript.
 ## Installation
 
 ```sh
-$ npm i -g levdist
+$ npm i levdist
 ```
 
 ## Example
