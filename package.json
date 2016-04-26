@@ -1,6 +1,6 @@
 {
   "name": "levdist",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "A minimal algorithm for computing Levenshtein distance in JavaScript.",
   "main": "lib/index.js",
   "directories": {
@@ -22,5 +22,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-levdist/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-levdist"
+  "homepage": "https://github.com/IonicaBizau/node-levdist",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
