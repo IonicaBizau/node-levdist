@@ -1,14 +1,18 @@
+
 # levdist [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/levdist.svg)](https://www.npmjs.com/package/levdist) [![Downloads](https://img.shields.io/npm/dt/levdist.svg)](https://www.npmjs.com/package/levdist) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A minimal algorithm for computing Levenshtein distance in JavaScript.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save levdist
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -19,7 +23,8 @@ console.log(LevDist("live", "life"));
 // => 1
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `LevDist(s, t)`
 Calculates the Levenshtein distance.
@@ -31,17 +36,19 @@ Calculates the Levenshtein distance.
 #### Return
 - **Number** The Levenshtein distance value.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`levenshtein-array`](https://github.com/IonicaBizau/node-levenshtein-array)
 
- - [`line-diff`](https://github.com/IonicaBizau/node-line-diff)
+ - [`levenshtein-array`](https://github.com/IonicaBizau/node-levenshtein-array)—Levenshtein distance for an array.
+ - [`line-diff`](https://github.com/IonicaBizau/node-line-diff)—Compare strings line by line.
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
