@@ -1,6 +1,6 @@
 {
   "name": "levdist",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "A minimal algorithm for computing Levenshtein distance in JavaScript.",
   "main": "lib/index.js",
   "directories": {
@@ -31,6 +31,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
