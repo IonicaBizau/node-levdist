@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Calculates the Levenshtein distance.
 
 #### Params
+
 - **String** `s`: The first string.
 - **String** `t`: The second string.
 
