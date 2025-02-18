@@ -19,6 +19,9 @@
     "distance"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "contributors": [
+    "Jonas Brussat <bombastickj@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-levdist/issues"
