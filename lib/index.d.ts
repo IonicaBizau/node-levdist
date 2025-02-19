@@ -6,7 +6,7 @@ declare module 'levdist' {
      * @param {string} t The second string.
      * @return {number} The Levenshtein distance value.
      */
-    type LevDist = (s: string, t: string) => number;
+    function LevDist(s: string, t: string): number;
 
     export = LevDist;
 }
