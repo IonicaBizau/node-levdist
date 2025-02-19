@@ -1,6 +1,6 @@
 {
   "name": "levdist",
-  "version": "2.2.11",
+  "version": "2.2.12",
   "description": "A minimal algorithm for computing Levenshtein distance in JavaScript.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
